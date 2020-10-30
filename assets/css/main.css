@@ -3359,7 +3359,7 @@ input, select, textarea {
 				background: #43d9b8;
 				content: '';
 				display: block;
-				margin-top: 1rem;
+				margin-top: 0;
 				position: absolute;
 				width: 2px;
 			}
@@ -3413,7 +3413,7 @@ input, select, textarea {
 			}
 
 				#wrapper > section.intro > header {
-					padding-top: 4rem;
+					padding-top: auto;
 					width: 100%;
 				}
 
@@ -3459,7 +3459,7 @@ input, select, textarea {
 			}
 
 		#wrapper section {
-			margin: 7.5rem 0 0 0;
+			margin: 2rem 0 0 0;
 		}
 
 			#wrapper section > header {
