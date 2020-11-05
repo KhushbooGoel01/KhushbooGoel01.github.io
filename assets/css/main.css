@@ -3022,7 +3022,7 @@ input, select, textarea {
 			}
 
 				.gallery a.landscape img {
-					height: 30vw;
+					height: auto;
 				}
 
 			.gallery a.portrait img {
@@ -3211,7 +3211,7 @@ input, select, textarea {
 			}
 
 			.gallery a.landscape img {
-				height: 12rem;
+				height: auto;
 			}
 
 			.gallery a.portrait img {
